@@ -1,0 +1,23 @@
+{
+  "auth": {
+    "login": "Вход"
+  },
+  "lang": {
+    "lang": "RU"
+  },
+  
+  "edit": "Tahrirlash",
+  "read": "Ko'rish",
+  "create": "Yaratish",
+  "save": "Saqlash",
+  "cancel": "Bekor qilish",
+
+
+  "Buttons": {
+    "create": "Создать",
+    "edit": "Изменить",
+    "delete": "Удалить",
+    "read": "Посмотреть",
+    "statistics": "Cтатистика"
+  }
+}

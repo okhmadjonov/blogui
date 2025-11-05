@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "login": "kirish"
+  },
+  "lang": {
+    "lang": "U"
+  },
+  "edit": "Tahrirlash",
+  "read": "Ko'rish",
+  "create": "Yaratish",
+  "save": "Saqlash",
+  "cancel": "Bekor qilish",
+
+
+  "Buttons": {
+    "create": "Yaratish",
+    "edit": "Ozgartirish",
+    "delete": "Ochirish",
+    "read": "Korish",
+    "statistics":"Statistika"
+  }
+}
