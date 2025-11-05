@@ -1,8 +1,8 @@
-import { FC, ReactNode } from "react";
-import { useSelector } from "react-redux";
-import { Navigate } from "react-router-dom";
+import type { FC, ReactNode } from "react";
+// import { useSelector } from "react-redux";
+// import { Navigate } from "react-router-dom";
 // import { AuthState } from "../../../interfaces";
-import { routes } from "../../../constants/routes";
+// import { routes } from "../../../constants/routes";
 import Layout from "@/components/Layout";
 
 interface IPrivateRoute {

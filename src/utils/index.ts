@@ -1,5 +1,5 @@
 import { message } from "antd";
-import { AxiosResponse } from "axios";
+import type { AxiosResponse } from "axios";
 
 export const filterOption = (
   input: string,

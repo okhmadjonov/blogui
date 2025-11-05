@@ -1,8 +1,8 @@
 import React from "react";
-import { privateRoutes, publicRoutes } from "./routes";
+import { privateRoutes } from "./routes";
 import NotFound from "./components/NotFound";
 import { Route, Routes } from "react-router-dom";
-import PublicRoute from "./components/PublicRoute";
+// import PublicRoute from "./components/PublicRoute";
 import PrivateRoute from "./components/PrivateRoute";
 
 const AppRoute = () => {
