@@ -1,7 +1,5 @@
 import type { FC, ReactNode } from "react";
-// import { useSelector } from "react-redux";
 import { Navigate } from "react-router-dom";
-// import { AuthState } from "../../../interfaces";
 import { routes } from "../../../constants/routes";
 
 interface IPublicRoute {
@@ -9,12 +7,8 @@ interface IPublicRoute {
 }
 
 const PublicRoute: FC<IPublicRoute> = ({ children }) => {
-  // const auth: AuthState = useSelector((state: any) => state.auth);
-  // const user: AuthState = useSelector((state: any) => state.userData.user);
-
-  // if (auth.isLogged && auth.token && !!user) {
+  
   return <Navigate to={routes.HOME} replace />;
-  // }
 
   return children;
 };
